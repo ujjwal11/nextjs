@@ -14,7 +14,7 @@
     "@fortawesome/react-fontawesome": "^0.1.8",
     "@zeit/next-css": "^1.0.2-canary.2",
     "@zeit/next-sass": "^1.0.2-canary.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "custom-env": "^2.0.1",
     "dotenv": "^8.2.0",
