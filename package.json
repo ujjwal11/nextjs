@@ -22,7 +22,7 @@
     "font-awesome": "^4.7.0",
     "isomorphic-unfetch": "^3.0.0",
     "js-cookie": "^2.2.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "navigator": "^1.0.1",
     "next": "^9.1.4-canary.7",
     "next-redux-saga": "^4.1.2",
